@@ -48,7 +48,7 @@ st.markdown("""
 st.image("https://piasar-capacita.creation.camp/wp-content/uploads/sites/55/2021/12/Logo-1-MVCS.png", width=200)
 
 # Título y subtítulo
-st.title("BotDUS - Asistente inteligente de la Ley DUS")
+st.title("BotDUS - Asistente IA de la Ley DUS")
 st.markdown("Haz tus consultas sobre la Ley DUS y obtén respuestas claras y rápidas.")
 
 # ---------------------------
