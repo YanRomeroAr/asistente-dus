@@ -49,7 +49,7 @@ st.image("https://piasar-capacita.creation.camp/wp-content/uploads/sites/55/2021
 
 # Título y subtítulo
 st.title("BotDUS - Asistente IA de la Ley DUS")
-st.markdown("Haz tus consultas sobre la Ley DUS y obtén respuestas claras y rápidas.")
+st.markdown("Haz tus consultas sobre la Ley de Desarrollo Urbano Sostenible y obtén respuestas claras y rápidas.")
 
 # ---------------------------
 # ESTADO INICIAL
